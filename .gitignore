@@ -1,6 +1,7 @@
-package-lock.json
+pcdackage-lock.json
 node_modules/*
 .idea/*
 
 images/*
 !images/.gitkeep
+node_modules
